@@ -27,3 +27,14 @@ main{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+iframe#tela{
+    width: 268px;
+    height: 472px;
+
+    
+    
+    position: relative;
+    top: 80px;
+    left: 22px;
+
+}
