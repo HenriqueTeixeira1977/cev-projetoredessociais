@@ -9,7 +9,7 @@
 html, body{
     width: 100vw;
     height: 100vh;
-    background: url('/img/fundo-madeira.jpg') no-repeat top center;
+    background: url(/img/fundo-madeira.jpg) no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -20,7 +20,7 @@ main{
 #telefone{
     height: 627px;
     width: 310px;
-    background: url('/img/frame-iphone.png') no-repeat;
+    background: url(/img/frame-iphone.png) no-repeat;
     position: absolute;
     top: 50%;
     left: 50%;
